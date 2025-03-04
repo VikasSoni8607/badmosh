@@ -1,2 +1,1 @@
-# badmosh
-vikas badmosh ki jankari
+ok
